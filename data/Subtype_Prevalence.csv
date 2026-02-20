@@ -1,0 +1,6 @@
+source,subtype,race,prevalence,total,zhou_lower,zhou_upper,location
+Zhou 2017,ERG,White,0.49,13281,0.45,0.52,Table 3
+Zhou 2017,ERG,Black,0.25,522,0.18,0.32,Table 3
+Zhou 2017,ERG,Asian,0.27,2457,0.16,0.41,Table 3
+Tomlins 2015,Non-ERG ETS,White,0.09,1400,,,Supplementary Table 6
+Tomlins 2015,Non-ERG ETS,Black,0.13,62,,,Supplementary Table 6

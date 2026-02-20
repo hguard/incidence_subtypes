@@ -1,0 +1,12 @@
+﻿source,subtype,race,cases,total,samples,found,cohort
+Yuan 2020,SPOP,White,38,414,localized and locally advanced disease,Age and gleason adjusted prevalence of 9.1% pulled from Results Section Genetic ancestry and genomic alterations and total from abstract,TCGA
+Yuan 2020,SPOP,Black,14,61,localized and locally advanced,Age and gleason adjusted prevalence of 22.7% pulled from Results Section Genetic ancestry and genomic alterations and total from abstract,TCGA 
+TCGA 2015,SPOP,Asian,1,8,primary prostate adenocarcinoma,"technically TCGA 2015, but numbers pulled from cBio portal", TCGA
+Blattner 2014,SPOP,Asian,6,87,laparoscopic prostatectomy tissue,counts pulled from Table 2 (the Korean Cohort), Korean Cohort
+Blattner 2014,SPOP,White,6,99,TURP tissue (localized disease),counts pulled from Table 2 (Swedish Cohort), Swedish Watchful Waiting Cohort
+Blattner 2014,SPOP,White,18,125,clinically localized primary prostate cancers (per supplement of Barbieri 2012,counts pulled from Table 2 (WCMC), Weill Cornell Medical College cohort
+Stopsack 2022,SPOP,White,100,630,includes 1 prostate squamous cell carcinoma ,"Results from MSK-IMPACT found on cbioportal under Race Differences in Prostate Cancer (MSK, 2021); Sample Type=Primary, Race Category = White, Disease Extent = Localized; values taken from mutated genes", MSK
+Stopsack 2022,SPOP,Black,6,54,all prostate adenocarcinoma,"Results from MSK-IMPACT found on cbioportal under Race Differences in Prostate Cancer (MSK, 2021); Sample Type=Primary, Race Category = Black, Disease Extent = Localized; values taken from mutated genes", MSK
+Stopsack 2022,SPOP,Asian,1,16,all prostate adenocarcinoma,"Results from MSK-IMPACT found on cbioportal under Race Differences in Prostate Cancer (MSK, 2021); Sample Type=Primary, Race Category = Black, Disease Extent = Localized; values taken from mutated genes", MSK
+Khani 2014 ,SPOP,White,8,78,radical prostatectomy tissue ,Table 2 - Caucasian men, Cuacasian American Men Cohort
+Khani 2014 ,SPOP,Black,4,88,radical prostatectomy tissue ,Table 2 - African American men, African American Men Cohort (WCMC) 
