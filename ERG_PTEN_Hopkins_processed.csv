@@ -1,0 +1,9 @@
+source,race,subtype,cases,total,prevalence
+Hopkins 2024,Black,ERG negative/PTEN intact,131,186,0.7043010752688172
+Hopkins 2024,Black,ERG negative/any PTEN loss,17,186,0.0913978494623656
+Hopkins 2024,Black,ERG positive/PTEN intact,22,186,0.11827956989247312
+Hopkins 2024,Black,ERG positive/any PTEN loss,16,186,0.08602150537634409
+Hopkins 2024,White,ERG negative/PTEN intact,89,203,0.43842364532019706
+Hopkins 2024,White,ERG negative/any PTEN loss,22,203,0.10837438423645321
+Hopkins 2024,White,ERG positive/PTEN intact,50,203,0.24630541871921183
+Hopkins 2024,White,ERG positive/any PTEN loss,42,203,0.20689655172413793
